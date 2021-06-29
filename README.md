@@ -4,7 +4,8 @@
 A very small (29,9x26,9mm) ESP8266 breakout board with 5V support, proper screw terminal for power wires and required resistors and caps for the ADC input!
 
 # As for all my PCBs: Huge thanks to Quindor from QuinLED.info and also the folks from #pcb-design-talk on his Discord server! Would not have been able to do anything without these people!!
-### KiCad dependencies
+
+## KiCad dependencies
 It might happen that KiCad is missing my custom footprints. You can find and download them here and then add them to KiCad: https://github.com/ezcGman/andys-footprints
 
 ## Key features
