@@ -10,9 +10,9 @@ It might happen that KiCad is missing my custom footprints. You can find and dow
 All these parts can be easily found on AliExpress (except the PCBs ;) ):
 
 - 1x The PCB in this folder, printed e.g. at PCBWay or JLCPCB.com
+- 1x 0805 SMD capacitor of 100nF
 - 1x 0805 SMD capacitor of 10µF
 - 1x 0805 SMD capacitor of 22µF
-- 1x 0805 SMD capacitor of 100nF
 - 2x 0805 SMD resistor of 10kΩ
 - 1x 0805 SMD resistor of 100kΩ
 - 1x 0805 SMD resistor of 220kΩ
