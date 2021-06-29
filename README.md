@@ -10,8 +10,8 @@ It might happen that KiCad is missing my custom footprints. You can find and dow
 - It's small! A little smaller even than these cheap / billo breakout boards you bought so far on AliExpress or eBay!
 - It's a real PCB and not that paper thing I just ranted about in the line above!
 - 5-18V support! However, I recommend powering it with 12V max; the heat that LDO will produce might be a bit much.
-- The ESP sits on pin headers instead of being soldered onto it. This enables you to remove / exchange it, e.g. if your code on that ESP doesn't have any OTA update feature, or if you want to exchange for another ESP type
-- Already comes with the necessary resistors and a stablizing capacitor to directly use the ADC / analog input 
+- The ESP sits on pin headers instead of being soldered onto it. This enables you to remove / exchange it, e.g. if your code on that ESP doesn't have any OTA update feature, or if you want to exchange it for another ESP type
+- Already comes with the necessary resistors and a stabilizing capacitor to directly use the ADC / analog input 
 - A proper screw terminal for the power source / cables! No flimsy Duponts for this
 - Cutout for the ESP antenna for better Wi-Fi signal
 - Mounting hole to screw it onto something
