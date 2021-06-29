@@ -40,5 +40,5 @@ If you want to use the timed deep sleep feature of the ESP8266, place a 0Ω resi
 ## Why the AMS117? Why not another LDO?
 Because: I have so many lying around here ¯\\_(ツ)\_/¯ It's not the best, but pretty famous, cheap and easy to get LDO. It theoretically can eat up to 18V, so you could power that board with 18V, if you wanted to. Not talking about the heat this thing generates, if you would ;)
 
-It's downsides are clearly the quiescent current of min. 5mA up to 13mA! There are also smaller LDOs (the AMS1117 is SOT-223), but with that screw terminal I wanted, it wouldn't matter anyways.
+Its downsides are clearly the quiescent current of at least 5mA up to 13mA! There are also smaller LDOs (the AMS1117 is SOT-223), but with that screw terminal I wanted, it wouldn't matter anyways.
 If you want to change it, you're welcome to edit the PCB using KiCad :)
