@@ -3,7 +3,7 @@
 # ESP8266 Tiny Breakout Board
 A very small (29,9x26,9mm) ESP8266 breakout board with 5V support, proper screw terminal for power wires and required resistors and caps for the ADC input!
 
-# Credits
+## Credits
 As for all my PCBs: Huge thanks to Quindor from QuinLED.info and also the folks from #pcb-design-talk on his Discord server! Would not have been able to do anything without these people!!
 
 ## KiCad dependencies
