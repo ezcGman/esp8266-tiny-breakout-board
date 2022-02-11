@@ -1,4 +1,4 @@
-19834987868317808
+19841566633514717
 Andys-Footprints
 BatteryHolder_Keystone_2460_1xAA-removed-holes
 https://www.keyelco.com/product-pdf.cfm?p=1025
@@ -6,6 +6,20 @@ AA battery cell holder
 0
 2
 2
+Andys-Footprints
+E-Byte-E32-900M20S
+LoRa Module, https://www.ebyte.com/en/product-view-news.html?id=1613
+LoRa Module
+0
+26
+26
+Andys-Footprints
+E-Byte-E220-900T22S
+LoRa Module, https://www.ebyte.com/en/product-view-news.html?id=1211
+LoRa Module
+0
+22
+22
 Andys-Footprints
 ESP-07-Socket
 Through hole straight pin header, 2x08, 2.00mm pitch, aligned to hold a ESP-12E/F
@@ -36,6 +50,13 @@ Through hole pin header THT 2x08 2.00mm single row ESP ESP-12
 16
 Andys-Footprints
 ESP-12-Socket-Cutout-IO9-10
+Through hole straight pin header, 2x08, 2.00mm pitch, aligned to hold a ESP-12E/F
+Through hole pin header THT 2x08 2.00mm single row ESP ESP-12
+0
+18
+18
+Andys-Footprints
+ESP-12-Socket-IO9-10
 Through hole straight pin header, 2x08, 2.00mm pitch, aligned to hold a ESP-12E/F
 Through hole pin header THT 2x08 2.00mm single row ESP ESP-12
 0
@@ -125,6 +146,13 @@ Yoshi-Egg-Small
 0
 0
 0
+Andys-Footprints
+esp32_devkit_v1_doit-less-silkscreen
+ESPWROOM32, ESP32, 30 GPIOs version
+
+0
+30
+30
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74813,8 +74841,8 @@ QuinLED-ESP32-ETH-Hat
 
 
 0
-15
-15
+36
+36
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
