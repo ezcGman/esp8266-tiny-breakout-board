@@ -44,7 +44,7 @@ All these parts can be easily found on AliExpress (except the PCBs ;) ):
 
 ### Optional
 - For SMD components:
-  - A hot air soldering/reflow station. However, it's only two and u have space around them, so they can be done with a soldering iron. Also the MOSFET can be technically soldered with an iron.
+  - A hot air soldering/reflow station. However, it's only two and u have space around them, so they can be done with a soldering iron. Also the LDO can be technically soldered with an iron.
   - Solder paste
   - Tweezers
 
