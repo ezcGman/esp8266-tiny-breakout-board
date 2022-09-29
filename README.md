@@ -21,7 +21,7 @@ It might happen that KiCad is missing my custom footprints. You can find and dow
 - Made in Germany! ;)
 
 ## Parts list
-Please see the iBOM which you can find in the `ibom` folder: It lists all components to easily find them on AliExpress, LCSC or your preferred component sourcing platform :)
+Please see the [iBOM](/ibom/ESPBreakoutBoard-Min-Cutout-v4r3.html), which you can find in the `ibom` folder: It lists all components to easily find them on AliExpress, LCSC or your preferred component sourcing platform :)
 
 ## Tools list
 ### Required
