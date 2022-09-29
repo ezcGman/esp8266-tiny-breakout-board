@@ -748,7 +748,7 @@
     (tedit 0) (tstamp 00000000-0000-0000-0000-0000610cc7c3)
     (at 161.45 92.35)
     (attr through_hole)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "G1" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 9ff4672a-e1a4-4a1e-887d-1b9a3429d278)
     )
