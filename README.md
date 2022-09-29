@@ -1,4 +1,4 @@
-![The PCB](https://github.com/ezcGman/esp8266-tiny-breakout-board/blob/master/pictures/ESPBreakotBoard-Min-Cutout.png?raw=true)
+![The PCB](https://github.com/ezcGman/esp8266-tiny-breakout-board/blob/master/pictures/ESPBreakoutBoard-Min-Cutout-v4r3-render-front.png?raw=true)
 
 # ESP8266 Tiny Breakout Board
 A very small (29,9x26,9mm) ESP8266 breakout board with 5V support, proper screw terminal for power wires and required resistors and caps for the ADC input!
@@ -56,6 +56,3 @@ Because: I have so many lying around here ¯\\_(ツ)\_/¯ It's not the best, but
 
 Its downsides are clearly the quiescent current of at least 5mA up to 13mA! There are also smaller LDOs (the AMS1117 is SOT-223), but with that screw terminal I wanted, it wouldn't matter anyways.
 If you want to change it, you're welcome to edit the PCB using KiCad :)
-
-![Topview](https://github.com/ezcGman/esp8266-tiny-breakout-board/blob/master/pictures/ESPBreakotBoard-Min-Cutout-Top-View.png?raw=true)
-![The Circuit](https://github.com/ezcGman/esp8266-tiny-breakout-board/blob/master/pictures/ESPBreakotBoard-Min-Cutout-Circuit.png?raw=true)
