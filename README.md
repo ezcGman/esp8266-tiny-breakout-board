@@ -21,21 +21,7 @@ It might happen that KiCad is missing my custom footprints. You can find and dow
 - Made in Germany! ;)
 
 ## Parts list
-All these parts can be easily found on AliExpress (except the PCBs ;) ):
-
-- 1x The PCB in this folder, printed e.g. at PCBWay or JLCPCB.com
-- 1x 0805 SMD capacitor of 100nF
-- 1x 0805 SMD capacitor of 10µF
-- 1x 0805 SMD capacitor of 22µF
-- 2x 0805 SMD resistor of 10kΩ
-- 1x 0805 SMD resistor of 100kΩ
-- 1x 0805 SMD resistor of 220kΩ
-- 2x 2.54mm single row male pin headers, 8 per side
-- 2x **2mm** single row male pin headers, 8 per side
-- 1x AMS1117-3.3 Low Dropout Regulator ("LDO")
-- 1x 2-Port 2.54mm pitch screw terminal
-- *(optional)* 0805 SMD resistor of 0kΩ (see below)
-- *(optional)* 2mm screws to mount the PCB somewhere
+Please see the iBOM which you can find in the `ibom` folder: It lists all components to easily find them on AliExpress, LCSC or your preferred component sourcing platform :)
 
 ## Tools list
 ### Required
